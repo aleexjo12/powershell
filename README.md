@@ -1,0 +1,2 @@
+# powershell
+Ejercicio de powershell
